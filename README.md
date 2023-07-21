@@ -42,7 +42,12 @@
 
 ![image](https://github.com/Tanwar-12/Chess-Pieces-Detection/assets/110081008/8e8ca728-c606-46ab-b9b2-efb9774e4594)
 
+## Testing Video Demo:
 
+
+
+
+https://github.com/Tanwar-12/Chess-Pieces-Detection/assets/110081008/564d2002-c637-4021-8017-440a6224af0c
 
 
   
